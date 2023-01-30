@@ -7,9 +7,6 @@ ___
 * Разработка telegram ботов с использованием **aiogram**
 * Работа со сторонними **API** и интеграция их в приложения
 * Работа с ORM, а также чистыми SQL запросами с использованием различных реляционных БД
-  * PostgreSQL
-  * SQLITE3
-  * MySQL
 
 А также много чего другого Вы сможете увидеть в моем GitHub профиле :blush:
 
@@ -28,6 +25,7 @@ ___
 ![](https://img.shields.io/badge/Linux-1a1a1a?style=for-the-badge&logo=Linux&logoColor=green)
 ![](https://img.shields.io/badge/BOOTSTRAP-1a1a1a?style=for-the-badge&logo=BOOTSTRAP&logoColor=pink)
 ![](https://img.shields.io/badge/env-1a1a1a?style=for-the-badge&logo=.env&logoColor=ed8218)
+![](https://img.shields.io/badge/logging-1a1a1a?style=for-the-badge&logo=&logoColor=ed8218)
 
 Все те проекты, которые я разрабатываю самостоятельно, 
 выкладываются на данный аккаунт GitHub по их окончанию.
